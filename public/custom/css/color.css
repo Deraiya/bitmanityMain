@@ -1,0 +1,121 @@
+/*Bitmanity Color Palettes*/
+/*Colors*/
+.w-c{
+    color: #FFFFFF !important;
+    /*White Color*/
+}
+.b-c{
+    color: #000000 !important;
+    /*Black Color*/
+}
+/*Blue Color Starts*/
+.b-b-c{
+    color: #006CFF
+    /*Blue Button Color*/
+}
+.d-b-c{
+    color: #23282D !important;
+    /*Dark Blue Color Navbar*/
+}
+.xxd-b-c{
+    color: #141618 !important;
+    /*Extra Dark Color Footer*/
+}
+.xd-b-c{
+    color: #1b1d1f !important;
+    /*Secondary Footer*/
+}
+/*Blue Color Ends*/
+.r-c{
+    color: #C92228 !important;
+    /*Red Color*/
+}
+.g-c{
+    color: #F7F7F7 !important;
+    /*Grey Color*/
+}
+.l-b-c{
+    color: #0CB4CE !important;
+    /*lite Blue Color*/
+}
+.green-c{
+    color: #43CB83 !important;
+    /*Green Color*/
+}
+.t-c{
+    color: #303133 !important;
+    /*Title Text*/
+}
+.s-c{
+    color: #777 !important;
+    /*Subtitle Text*/
+}
+.f7-c{
+    color: #f7f7f7 !important;
+}
+.f5-c{
+    color: #f5f5f5 !important;
+}
+.fa-c{
+    color: #fafafa !important;
+}
+/*Backgrounds*/
+.w-b{
+    background: #FFFFFF !important;
+    /*White Background*/
+}
+
+/*Blue Color starts*/
+.b-b{
+    background: #000000 !important;
+    /*Black Background*/
+}
+.d-b-b{
+    background: #23282D !important;
+    /*Dark Blue Background Navbar*/
+}
+.xxd-b-b{
+    background: #141618 !important;
+    /*Extra Dark Background Footer*/
+}
+.xd-b-b{
+    background: #1b1d1f !important;
+    /*Secondary Footer*/
+}
+.b-b-b{
+    background: #006CFF !important;
+    /*Blue Button Background*/
+}
+/*Blue Color Ends*/
+.r-b{
+    background: #C92228 !important;
+    /*Red Background*/
+}
+.g-b{
+    background: #F7F7F7 !important;
+    /*Grey Background*/
+}
+.l-b-b{
+    background: #0CB4CE !important;
+    /*lite Blue Background*/
+}
+.green-b{
+    background: #43CB83 !important;
+    /*Green Background*/
+}
+.t-b{
+    background: #303133 !important;
+}
+.s-b{
+    background: #777 !important;
+    /*Subtitle Text*/
+}
+.f7-b{
+    background: #f7f7f7 !important;
+}
+.f5-b{
+    background: #f5f5f5 !important;
+}
+.fa-b{
+    background: #fafafa !important;
+}

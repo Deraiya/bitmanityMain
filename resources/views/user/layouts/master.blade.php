@@ -15,12 +15,14 @@
     <meta content="" name="description"/>
     <meta content="" name="author"/>
     @include('user.includes.css')
+    @yield('css')
 </head>
 
 
 <body class="fixed-header horizontal-menu horizontal-app-menu ">
 <!-- START PAGE-CONTAINER -->
 @include('user.includes.nav')
+
 
 <div class="page-container f7-b">
     <!-- START PAGE CONTENT WRAPPER -->
@@ -45,20 +47,7 @@
 
 <!-- BEGIN VENDOR JS -->
 @include('user.includes.js')
-<script>
-    jQuery(document).ready(function ($) {
-        $('.fadeOut').owlCarousel({
-            items: 1,
-            animateOut: 'fadeOut',
-            loop: true,
-            margin: 0,
-            autoplay: true,
-            autoplaySpeed: 1000,
-            autoplayHoverPause: true,
-        });
-
-    });
-</script>
+@yield('js')
 
 <!-- END PAGE LEVEL JS -->
 </body>

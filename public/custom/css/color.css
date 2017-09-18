@@ -1,5 +1,9 @@
 /*Bitmanity Color Palettes*/
 /*Colors*/
+
+
+
+
 .w-c{
     color: #FFFFFF !important;
     /*White Color*/
@@ -119,3 +123,17 @@
 .fa-b{
     background: #fafafa !important;
 }
+.heart-d{
+    color: #9c9c9c !important;
+    font-size: 20px;
+}
+.heart-d:hover{
+    color: #C92228 !important;
+    font-size: 20px;
+}
+
+.heart-a{
+    color: #C92228 !important;
+    font-size: 20px;
+}
+

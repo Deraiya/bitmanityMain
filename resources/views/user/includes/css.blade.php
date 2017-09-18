@@ -24,3 +24,27 @@
 <link rel="stylesheet" href="{{asset('custom/plugin/OwlCarousel/docs/assets/owlcarousel/assets/owl.carousel.min.css')}}">
 <link rel="stylesheet" href="{{asset('custom/plugin/OwlCarousel/docs/assets/owlcarousel/assets/owl.theme.default.min.css')}}">
 <link rel="stylesheet" href="{{asset('custom/plugin/OwlCarousel/docs/assets/css/animate.css')}}">
+
+
+
+<link href="{{asset('static/assets/plugins/bootstrap-select2/select2.css')}}" rel="stylesheet" type="text/css" media="screen" />
+<link href="{{asset('static/assets/plugins/ion-slider/css/ion.rangeSlider.css')}}" rel="stylesheet" type="text/css" media="screen" />
+<link href="{{asset('static/assets/plugins/ion-slider/css/ion.rangeSlider.skinFlat.css')}}" rel="stylesheet" type="text/css" media="screen" />
+<link href="{{asset('static/assets/plugins/jquery-nouislider/jquery.nouislider.css')}}" rel="stylesheet" type="text/css" media="screen" />
+<link href="{{asset('static/assets/plugins/bootstrap3-wysihtml5/bootstrap3-wysihtml5.min.css')}}" rel="stylesheet" type="text/css" />
+<link href="{{asset('static/assets/plugins/bootstrap-tag/bootstrap-tagsinput.css')}}" rel="stylesheet" type="text/css" />
+<link href="{{asset('static/pages/css/pages.css')}}" rel="stylesheet" type="text/css" />
+<link href="{{asset('static/assets/css/print.css')}}" rel="stylesheet" type="text/css" />
+<link href="{{asset('static/assets/plugins/highlight/styles/github.css')}}" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+<link href="{{asset('static/assets/plugins/switchery/css/switchery.min.css')}}" rel="stylesheet" type="text/css" media="screen" />
+<link href="{{asset('static/assets/plugins/codrops-stepsform/css/component.css')}}" rel="stylesheet" type="text/css" media="screen" />
+<link class="main-stylesheet" href="{{asset('static/pages/css/pages.css')}}" rel="stylesheet" type="text/css" />

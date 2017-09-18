@@ -48,3 +48,7 @@
 <script src="{{asset('custom/plugin/OwlCarousel/docs/assets/js/app.js')}}"></script>
 
 <script src="{{asset('static/assets/js/scripts.js')}}" type="text/javascript"></script>
+
+
+
+

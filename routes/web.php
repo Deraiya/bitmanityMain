@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('user.pages.index');
 });
+
+Route::get('/try', function () {
+    return view('user.pages.try');
+});
+
+Route::get('/single', function () {
+    return view('user.pages.singleProduct');
+});

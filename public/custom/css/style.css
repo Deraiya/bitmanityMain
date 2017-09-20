@@ -25,11 +25,11 @@ ul li a {
 }
 ::-moz-selection { /* Code for Firefox */
     color: #fff;
-    background: #91ACBA;
+    background: #0CB4CE;
 }
 
 ::selection {
     color: #fff;
-    background: #91ACBA;
+    background: #0CB4CE;
 }
 

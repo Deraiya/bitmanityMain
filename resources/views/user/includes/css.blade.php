@@ -38,13 +38,16 @@
 <link href="{{asset('static/assets/plugins/highlight/styles/github.css')}}" rel="stylesheet" type="text/css" />
 
 
-
-
-
-
-
-
-
 <link href="{{asset('static/assets/plugins/switchery/css/switchery.min.css')}}" rel="stylesheet" type="text/css" media="screen" />
 <link href="{{asset('static/assets/plugins/codrops-stepsform/css/component.css')}}" rel="stylesheet" type="text/css" media="screen" />
 <link class="main-stylesheet" href="{{asset('static/pages/css/pages.css')}}" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+    

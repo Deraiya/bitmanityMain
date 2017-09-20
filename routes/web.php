@@ -22,3 +22,16 @@ Route::get('/try', function () {
 Route::get('/single', function () {
     return view('user.pages.singleProduct');
 });
+
+Route::get('/cart1', function () {
+    return view('user.pages.cart-1');
+});
+Route::get('/cart2', function () {
+    return view('user.pages.cart-2');
+});
+Route::get('/cart3', function () {
+    return view('user.pages.cart-3');
+});
+Route::get('/register', function () {
+    return view('user.pages.register');
+});

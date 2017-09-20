@@ -16,14 +16,14 @@
                             <img alt="Cover photo" src="{{asset('static/assets/img/carso.jpg')}}"/>
                         </div>
 
-                        <div class=" container container-fixed-lg sm-p-l-0 sm-p-r-0">
-                            <div class="inner">
-                                <div class="pull-bottom bottom-left  sm-p-l-15" style="margin-bottom: 150px">
-                                    <h1 class="b-c bold no-margin">Its Huge</h1>
-                                    <a class="bt-btn bt-btn-primary " href="#">Shop Now</a>
-                                </div>
-                            </div>
-                        </div>
+                        {{--<div class=" container container-fixed-lg sm-p-l-0 sm-p-r-0">--}}
+                            {{--<div class="inner">--}}
+                                {{--<div class="pull-bottom bottom-left  sm-p-l-15" style="margin-bottom: 150px">--}}
+                                    {{--<h1 class="b-c bold no-margin">Its Huge</h1>--}}
+                                    {{--<a class="bt-btn bt-btn-primary " href="#">Shop Now</a>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
                     </div>
 
                 </div>
@@ -32,14 +32,14 @@
                         <div class="cover-photo">
                             <img alt="Cover photo" src="{{asset('static/assets/img/carso2.jpg')}}"/>
                         </div>
-                        <div class=" container    container-fixed-lg sm-p-l-0 sm-p-r-0">
-                            <div class="inner">
-                                <div class="pull-bottom bottom-left  sm-p-l-15" style="margin-bottom: 150px">
-                                    <h1 class="w-c bold no-margin">Its Huge</h1>
-                                    <a class="bt-btn bt-btn-primary " href="#">Shop Now</a>
-                                </div>
-                            </div>
-                        </div>
+                        {{--<div class=" container    container-fixed-lg sm-p-l-0 sm-p-r-0">--}}
+                            {{--<div class="inner">--}}
+                                {{--<div class="pull-bottom bottom-left  sm-p-l-15" style="margin-bottom: 150px">--}}
+                                    {{--<h1 class="w-c bold no-margin">Its Huge</h1>--}}
+                                    {{--<a class="bt-btn bt-btn-primary " href="#">Shop Now</a>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
                     </div>
 
                 </div>
@@ -54,7 +54,7 @@
         <div class="card card-transparent">
             <div class="card-header d-flex justify-content-start">
                 <div class="card-title" >
-                    <h3 style="" class="t-c bold font-montserrat">Featured Products</h3>
+                    <h4 style="" class="t-c bold font-montserrat">Featured Products</h4>
                 </div>
             </div>
             <div class="card-block">
@@ -149,7 +149,7 @@
                                             <i class="fa fa-heart" style="font-size: 20px;color: #9c9c9c"></i>
                                         </div>
                                         <div style="margin-right: 15px;margin-left: 15px">
-                                            <i class="fa fa-shopping-cart t-c" style="font-size: 20px;"></i>
+                                            <i class="fa fa-shopping-cart text-primary" style="font-size: 20px;"></i>
                                         </div>
                                         <div style="margin-right: 10px;margin-left: 10px">
                                             <i class="fa fa-share" style="font-size: 20px;color: #9c9c9c"></i>

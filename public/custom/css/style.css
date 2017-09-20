@@ -8,14 +8,28 @@ ul li a {
 
 .bt-btn-atc{
     color: #fff !important;
-    background-color: #141618 !important;
+    background-color: #6d5cae !important;
 
 }
 .bt-btn-atc:hover{
     color: #141618 !important;
     background-color: #fff !important;
-    border-color: #141618 !important;
+    border-color: #6d5cae !important;
 
 }
 
+.social-wrapper .social .jumbotron {
+    height: 40vh !important;
+    
+
+}
+::-moz-selection { /* Code for Firefox */
+    color: #fff;
+    background: #91ACBA;
+}
+
+::selection {
+    color: #fff;
+    background: #91ACBA;
+}
 

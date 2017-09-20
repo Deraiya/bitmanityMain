@@ -24,11 +24,11 @@
 @include('user.includes.nav')
 
 
-<div class="page-container f7-b">
+<div class="page-container w-b">
     <!-- START PAGE CONTENT WRAPPER -->
     <div class="page-content-wrapper ">
         <!-- START PAGE CONTENT -->
-        <div class="content f7-b">
+        <div class="content w-b">
             @yield('content')
         </div>
         <!-- END PAGE CONTENT -->

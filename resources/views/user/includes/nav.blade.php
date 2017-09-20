@@ -1,10 +1,8 @@
-<div class="header p-r-0 d-b-b">
-    <div class="header-inner  header-md-height">
+<div class="header p-r-0 d-b-b ">
+    <div class="header-inner  header-md-height container">
         <div class="">
-            <div class="brand inline no-border hidden-xs-down ml-0">
-                <img src="{{asset('static/assets/img/logo-white.png')}}" alt="logo"
-                     data-src="{{asset('static/assets/img/logo-white.png')}}"
-                     data-src-retina="{{asset('assets/img/logo-white.png')}}" width="100" height="35">
+            <div class="brand inline no-border hidden-xs-down ml-3">
+                <img src="{{asset('static/assets/img/logo-white.png')}}" alt="logo" width="100" height="35">
             </div>
 
 

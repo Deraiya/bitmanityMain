@@ -25,7 +25,7 @@
         }
     </script>
 </head>
-<body class="fixed-header f7-b ">
+<body class="fixed-header f2-b ">
 @yield('content')
 
 

@@ -8,18 +8,18 @@ ul li a {
 
 .bt-btn-atc{
     color: #fff !important;
-    background-color: #6d5cae !important;
+    background-color: #0070c9 !important;
 
 }
 .bt-btn-atc:hover{
-    color: #141618 !important;
+    color: #0070c9 !important;
     background-color: #fff !important;
-    border-color: #6d5cae !important;
+    border-color: #0070c9 !important;
 
 }
 
 .social-wrapper .social .jumbotron {
-    height: 40vh !important;
+    height: 50vh !important;
     
 
 }
@@ -33,3 +33,27 @@ ul li a {
     background: #0CB4CE;
 }
 
+.fw-500{
+    font-weight: 500;
+}
+.nav-tabs-linetriangle > li > a.active:after {
+    border-top-color: #fff !important;
+
+}
+
+.nav-tabs-linetriangle:after{
+    border: none !important;
+}
+.nav-tabs-linetriangle > li > a.active:before{
+    border: none !important;
+}
+* {
+    color: #333333;
+}
+.horizontal-app-menu .header{
+    background-color: #333333 !important;
+}
+
+.hint-text{
+    color: #888 !important;
+}

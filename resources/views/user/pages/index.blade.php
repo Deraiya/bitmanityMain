@@ -54,7 +54,7 @@
         <div class="card card-transparent">
             <div class="card-header d-flex justify-content-start">
                 <div class="card-title" >
-                    <h4 style="" class="t-c bold font-montserrat">Featured Products</h4>
+                    <h5 style="" class="t-c bold font-montserrat">Featured Products</h5>
                 </div>
             </div>
             <div class="card-block">

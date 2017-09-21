@@ -107,14 +107,14 @@
 
     <div class="no-padding">
             <div class="row">
-                <div class="card card-transparent f7-b mb-0">
+                <div class="card card-transparent f2-b mb-0">
                     <div class="card-block pt-0 pb-0">
-                        <div class="row m-1">
+                        <div class="row ">
 
 
                                 <div class="card card-transparent">
                                     <!-- Nav tabs -->
-                                    <ul class="nav nav-tabs nav-tabs-linetriangle d-flex justify-content-center" data-init-reponsive-tabs="dropdownfx">
+                                    <ul class="nav nav-tabs nav-tabs-linetriangle d-flex justify-content-center w-b no-border" data-init-reponsive-tabs="dropdownfx">
                                         <li class="nav-item">
                                             <a href="#" class="active t-c" data-toggle="tab" data-target="#fade1"><span>DETAIL</span></a>
                                         </li>
@@ -124,7 +124,7 @@
 
                                     </ul>
                                     <!-- Tab panes -->
-                                    <div class="tab-content container f7-b">
+                                    <div class="tab-content container f2-b">
                                         <div class="tab-pane  fade show active" id="fade1">
                                             <div class="row column-seperation">
                                                 <div class="col-12 t-c">

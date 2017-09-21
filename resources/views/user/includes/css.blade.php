@@ -42,6 +42,7 @@
 <link href="{{asset('static/assets/plugins/codrops-stepsform/css/component.css')}}" rel="stylesheet" type="text/css" media="screen" />
 <link class="main-stylesheet" href="{{asset('static/pages/css/pages.css')}}" rel="stylesheet" type="text/css" />
 
+<link href="{{asset('static/assets/plugins/simple-line-icons/simple-line-icons.css')}}" rel="stylesheet" type="text/css" media="screen"/>
 
 
 

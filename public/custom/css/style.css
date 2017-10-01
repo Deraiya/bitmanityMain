@@ -18,6 +18,7 @@ ul li a {
 
 }
 
+
 .social-wrapper .social .jumbotron {
     height: 50vh !important;
     
@@ -57,3 +58,42 @@ ul li a {
 .hint-text{
     color: #888 !important;
 }
+
+.f15{
+    font-size: 15px !important;
+}
+.f17{
+    font-size: 17px !important;
+}
+.f24{
+    font-size: 24px !important;
+}
+.f22{
+    font-size: 22px !important;
+}
+.f32{
+    font-size: 32px !important;
+}
+
+
+ul.lg-icon > li span,
+ol.lg-icon > li span {
+    font-size: 17px !important;
+}
+.h3{
+    font-size: 32px !important;
+}
+.h2{
+    font-size: 24px !important;
+}
+.h1{
+    font-size: 40px !important;
+}
+.p{
+    font-size: 15px !important;
+}
+
+.swiper-button-prev, .swiper-button-next{
+    margin-top: -45px !important;
+}
+

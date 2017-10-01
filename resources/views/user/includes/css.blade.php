@@ -44,6 +44,10 @@
 
 <link href="{{asset('static/assets/plugins/simple-line-icons/simple-line-icons.css')}}" rel="stylesheet" type="text/css" media="screen"/>
 
+<link rel="stylesheet" href="{{asset('custom/plugin/swiper/dist/css/swiper.css')}}" rel="stylesheet" type="text/css">
+
+
+
 
 
 

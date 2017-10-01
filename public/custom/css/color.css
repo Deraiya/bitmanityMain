@@ -1,10 +1,33 @@
 /*Bitmanity Color Palettes*/
 /*Colors*/
+.primary-c{
+    color: #333 !important;
+}
+.primary-b{
+    background: #F2F2F2 !important;
+}
+.blue-c{
+    color: #0070c9 !important;
+}
+.blue-b{
+    background: #0070c9 !important;
+}
+.red-c{
+    color: #C92228 !important;
+}
+.red-b{
+    background: #C92228 !important;
+}
 
 nav-b{
     background: #333333 !important;
 }
-
+.hint-b{
+    background: #888;
+}
+.hint-c{
+    color: #888;
+}
 
 .w-c{
     color: #FFFFFF !important;
@@ -98,5 +121,7 @@ nav-b{
 .bt-blue-b{
     background: #0070c9 !important;
 }
+
+
 
 

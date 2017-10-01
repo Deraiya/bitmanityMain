@@ -1,4 +1,4 @@
-<div class="header p-r-0 b-fg ">
+<div class="header p-r-0" style="background: #333333;opacity: 70%">
     <div class="header-inner  header-md-height container">
         <div class="">
             <div class="brand inline no-border hidden-xs-down ml-3">
@@ -7,11 +7,9 @@
 
 
         </div>
-        <div class="d-flex align-items-center">
+        <div class="d-flex justify-content-between align-items-center">
             <!-- START User Info-->
-            <div class="pull-left p-r-10 fs-14 font-heading hidden-md-down text-white">
-                <i class="sl-bag" style="color: #fff;font-size: 20px"></i>
-            </div>
+
             <div class="dropdown pull-right">
                 <button class="profile-dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true"
                         aria-expanded="false">
@@ -28,6 +26,10 @@
                         <span class="pull-right"><i class="pg-power"></i></span>
                     </a>
                 </div>
+            </div>
+
+            <div class="pull-left p-l-30 fs-14 font-heading hidden-md-down text-white">
+                <i class="sl-bag" style="color: #fff;font-size: 20px"></i>
             </div>
             <!-- END User Info-->
 

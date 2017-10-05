@@ -1,4 +1,4 @@
-<div class="header p-r-0" style="background: #333333;opacity: 70%">
+<div class="header p-r-0 b-fg">
     <div class="header-inner  header-md-height container">
         <div class="">
             <div class="brand inline no-border hidden-xs-down ml-3">

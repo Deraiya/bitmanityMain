@@ -37,10 +37,15 @@
 <script src="{{asset('custom/plugin/swiper/dist/js/swiper.jquery.min.js')}}"></script>
 
 
-<script src="{{asset('custom/plugin/OwlCarousel/docs/assets/owlcarousel/owl.carousel.js')}}"></script>
 
-<script src="{{asset('custom/plugin/OwlCarousel/docs/assets/vendors/highlight.js')}}"></script>
-<script src="{{asset('custom/plugin/OwlCarousel/docs/assets/js/app.js')}}"></script>
+
+
+
+
+
+
+
+
 
 
 

@@ -97,3 +97,9 @@ ol.lg-icon > li span {
     margin-top: -45px !important;
 }
 
+.bt-icon-thumbnail{
+    height: 25px !important;
+    width: 30px !important;
+    line-height: 25px !important;
+}
+

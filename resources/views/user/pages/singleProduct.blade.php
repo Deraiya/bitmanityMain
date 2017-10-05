@@ -40,8 +40,8 @@
                                     <div class="swiper-pagination "></div>
 
                                     <div style="visibility: hidden" id="arrow" >
-                                        <button class="btn btn-default btn-cons swiper-button-prev swiper-button-black primary-c " style="min-width: 50px;" type="button"><i class="fa fa-chevron-left"></i> </button>
-                                        <button class="btn btn-default btn-cons swiper-button-next swiper-button-black primary-c" style="min-width: 50px;"  type="button"><i class="fa  fa-chevron-right"></i> </button>
+                                        <button class="btn btn-default btn-cons swiper-button-prev swiper-button-black primary-c " style="min-width: 50px;border-radius: 0" type="button"><i class="fa fa-chevron-left"></i> </button>
+                                        <button class="btn btn-default btn-cons swiper-button-next swiper-button-black primary-c" style="min-width: 50px;border-radius: 0"  type="button"><i class="fa  fa-chevron-right"></i> </button>
                                     </div>
                                 </div>
 
@@ -67,8 +67,8 @@
                                     <div class="d-flex">
                                         <span class="icon-thumbnail bg-master-light pull-left t-c">4.3</span>
                                         <div class="flex-1 full-width overflow-ellipsis">
-                                            <div class="hint-text all-caps font-montserrat  small no-margin overflow-ellipsis bold ">Reviews</div>
-                                            <a href="#" class="no-margin overflow-ellipsis bold l-b-c"> 22 Customer Reviews</a>
+                                            <div class="hint-text all-caps font-montserrat  small no-margin overflow-ellipsis bold ">CUSTOMER REVIEWS</div>
+                                            <a href="#" class="no-margin overflow-ellipsis bold l-b-c"> 22</a>
                                         </div>
                                     </div>
                                 </div>
@@ -108,7 +108,7 @@
 
 
                                                 <div class="form-group" style="line-height: 6.7">
-                                                    <button class="btn bt-btn-atc" style="height: 50px;width: 155px;font-weight: 700">Add to Cart</button>
+                                                    <button class="btn blue-b w-c b-0" style="height: 50px;width: 155px;font-weight: 700">Add to Cart</button>
                                                 </div>
 
                                             </div>
@@ -121,10 +121,12 @@
                                 <div class="m-t-10">
                                     <div class="d-flex flex-row justify-content-start">
                                         <div>
-                                            <i class="fa fa-heart heart-d"></i> &nbsp;
+                                            <h5>
+                                                <i class="fa  fa-heart-o red-c" style=""></i> &nbsp;
+                                            </h5>
                                         </div>
                                         <div>
-                                            <h5 class="bold" style="line-height: 0">
+                                            <h5 class="bold" >
                                                 Add to wishlist
                                             </h5>
                                         </div>
@@ -248,6 +250,8 @@
             prevButton: '.swiper-button-prev',
             spaceBetween: 0,
             mousewheelControl: false
+
+
         });
     </script>
     <script>

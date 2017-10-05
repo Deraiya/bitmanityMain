@@ -87,7 +87,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="product-container" style="overflow: hidden;" onMouseOver="show('arrow')" onMouseOut="hide('arrow')">
-                            <div class="swiper-wrapper">
+                            <div class="swiper-wrapper d-flex justify-content-center">
                                 <div class="swiper-slide">
                                     <div style="width: 260px;height: 195px;">
                                         <img src="{{asset('static/assets/img/shop/single/01.jpg')}}" width="100%" height="100%">
@@ -133,8 +133,8 @@
                             </div>
 
                             <div  id="arrow"  style="visibility: hidden">
-                                <button class="btn btn-default btn-cons swiper-button-prev swiper-button-black primary-c " style="min-width: 50px;width: 45px;height: 90px;" type="button"><i class="fa fa-chevron-left"></i> </button>
-                                <button class="btn btn-default btn-cons swiper-button-next swiper-button-black primary-c" style="min-width: 50px;width: 45px;height: 90px;"  type="button"><i class="fa  fa-chevron-right"></i> </button>
+                                <button class="btn btn-default btn-cons swiper-button-prev swiper-button-black primary-c " style="min-width: 50px;width: 45px;height: 90px;border-radius: 0" type="button"><i class="fa fa-chevron-left"></i> </button>
+                                <button class="btn btn-default btn-cons swiper-button-next swiper-button-black primary-c" style="min-width: 50px;width: 45px;height: 90px;border-radius: 0"  type="button"><i class="fa  fa-chevron-right"></i> </button>
 
 
                             </div>
@@ -175,7 +175,7 @@
             nextButton: '.swiper-button-next',
             prevButton: '.swiper-button-prev',
             slidesPerView: 4,
-            spaceBetween: 30
+
         });
     </script>
 

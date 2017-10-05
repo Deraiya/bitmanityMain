@@ -35,3 +35,6 @@ Route::get('/cart3', function () {
 Route::get('/register', function () {
     return view('user.pages.register');
 });
+Route::get('/showcase', function () {
+    return view('user.pages.showcase');
+});
